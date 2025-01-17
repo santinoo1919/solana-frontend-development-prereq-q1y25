@@ -16,7 +16,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <title>Turbin3</title>
         <link
           rel="icon"
-          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔨</text></svg>"
+          href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='12' font-size='12'>⚡</text></svg>"
         />
       </Head>
       <WalletContextProvider>
